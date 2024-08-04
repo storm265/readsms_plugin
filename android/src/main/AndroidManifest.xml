@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.ayush783.readsms">
+  package="com.example.sms_test">
     <uses-permission android:name="android.permission.RECEIVE_SMS" />   
 <!--    <application>-->
 <!--        <receiver android:name=".ReadsmsPlugin"-->
